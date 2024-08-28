@@ -62,3 +62,8 @@ Habilidades de solução de problemas e criatividade aplicadas com sucesso na re
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/leonardolvfacu?tab=achievements)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leonardolvfacu@gmail.com)
+
+![Snake animation]
+(https://github.com/LeonardoVLordello/LeonardoVLordello/blob/output/github-contribution- grid-snake.svg) 
+[![readme](https://github-readme-stats.vercel.app/api/pin/? username=LeonardoVLordello&repo=LeonardoVLordello&theme=react)]
+(https://github.com/LeonardoVLordello/LeonardoVLordello)
