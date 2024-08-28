@@ -19,9 +19,9 @@ Estudante Apaixonado por Engenharia de Computação em Busca de Desafios e Oport
 
 ## Habilidades Técnicas:
 
-     💻 Linguagens de Programação: Java
+     💻 Linguagens de Programação: C#, Python e Java
 
-     🔧 Ferramentas e Tecnologias: Git
+     🔧 Ferramentas e Tecnologias: Git/Github
 
      📊 Banco de Dados: MySQL
 
