@@ -4,7 +4,11 @@
 
 Estudante Apaixonado por Engenharia de Computação em Busca de Desafios e Oportunidades
 
-
+<div>
+<a href="https://github.com/LeoanrdoVLordello">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoVLordello&show_icons=true&theme=radical"/> <ing height="180em" src="https://github-readee-stats.vercel.app/api/top-langs/?username-rafaballerini&layout-compact&langs_count-16&theme-dracula"/>
+</div>
+    
 ## Experiência Acadêmica:
 
 -  SESI - Programa de Robótica (Finalizada):
@@ -24,6 +28,15 @@ Estudante Apaixonado por Engenharia de Computação em Busca de Desafios e Oport
      🔧 Ferramentas e Tecnologias: Git/Github
 
      📊 Banco de Dados: MySQL
+
+<div style= "display: inline_block"><br/> 
+ <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>     
+</div>
+<div style= "display: inline_block"><br/> 
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ </div>
 
 ## Objetivos Profissionais
 
