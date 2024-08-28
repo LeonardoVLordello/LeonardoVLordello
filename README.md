@@ -63,7 +63,6 @@ Habilidades de solução de problemas e criatividade aplicadas com sucesso na re
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leonardolvfacu@gmail.com)
 
-![Snake animation]
-(https://github.com/LeonardoVLordello/LeonardoVLordello/blob/output/github-contribution- grid-snake.svg) 
-[![readme](https://github-readme-stats.vercel.app/api/pin/? username=LeonardoVLordello&repo=LeonardoVLordello&theme=react)]
-(https://github.com/LeonardoVLordello/LeonardoVLordello)
+![Snake animation]https://github.com/LeonardoVLordello/LeonardoVLordello/blob/output/github-contribution- grid-snake.svg
+[![readme]https://github-readme-stats.vercel.app/api/pin/? username=LeonardoVLordello&repo=LeonardoVLordello&theme=react)]
+(https://github.com/LeonardoVLordello/LeonardoVLordello
